@@ -19,7 +19,7 @@ Ele permite que qualquer pessoa configure e execute a aplicação localmente, us
 No terminal:
 
 ```bash
-git clone https://github.com/<seu-usuario>/<nome-do-repo>.git
+git clone https://github.com/lionelle234/sveltesuper1.git
 cd <nome-do-repo>
 
 2️⃣ Configuração do ambiente
@@ -49,6 +49,8 @@ Na raiz do projeto, execute:
 
 docker compose up -d --build
 
+em /backend e /frontend:
+npm install
 
 Isso iniciará:
 
