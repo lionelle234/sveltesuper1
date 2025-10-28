@@ -2,7 +2,7 @@
 
 Este projeto contém frontend, backend, mysql, elasticsearch totalmente containerizados com Docker.  
 Ele permite que qualquer pessoa configure e execute a aplicação localmente, usando suas próprias credenciais do Cloudinary.
-
+https://vimeo.com/1129025724?fl=tl&fe=ec
 ---
 
 ## Pré-requisitos
